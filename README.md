@@ -1,2 +1,2 @@
 # datascience
-Interview tests for datascience engineer at yensi solutions.
+Tasks for data-science engineer at yensi solutions.
